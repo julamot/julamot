@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julamot
 - 👀 I’m interested in Swift proficiency
 - 🌱 I’m currently learning (relearning, updating) Swift, SwiftUI, XCode, Combine, Bash (yes, Bash), JavaScript, and all things cURL
-- 💞️ I’m looking to collaborate on Cattura Encoders
+- 💞️ I’m looking to collaborate on Extron Encoders
 - 📫 How to reach me ...
 
 <!---
